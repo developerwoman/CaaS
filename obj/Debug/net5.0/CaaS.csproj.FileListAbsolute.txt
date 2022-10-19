@@ -1,0 +1,7 @@
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.csproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.AssemblyInfoInputs.cache
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.AssemblyInfo.cs
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.csproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\oswal\source\repos\CaaS\obj\Debug\net5.0\CaaS.MvcApplicationPartsAssemblyInfo.cache
